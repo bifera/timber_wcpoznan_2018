@@ -180,7 +180,7 @@ Jako nowy użytkownik WordPressa powinieneś przejść do <a href="http://localh
 		<link>http://localhost/xy-grid/2018/06/24/witaj-swiecie/attachment/1180300/</link>
 		<pubDate>Sun, 24 Jun 2018 16:01:02 +0000</pubDate>
 		<dc:creator><![CDATA[palmiak]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/xy-grid/app/uploads/2018/06/1180300.jpg</guid>
+		<guid isPermaLink="false">http://spiders.agency/xy-grid/uploads/2018/06/1180300.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -196,7 +196,7 @@ Jako nowy użytkownik WordPressa powinieneś przejść do <a href="http://localh
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/xy-grid/app/uploads/2018/06/1180300.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://spiders.agency/xy-grid/uploads/2018/06/1180300.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/06/1180300.jpg]]></wp:meta_value>
@@ -448,7 +448,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<link>http://localhost/xy-grid/2018/07/04/image-post/pixabay/</link>
 		<pubDate>Wed, 04 Jul 2018 16:51:37 +0000</pubDate>
 		<dc:creator><![CDATA[palmiak]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/xy-grid/app/uploads/2018/07/pexels-photo-356378.jpeg</guid>
+		<guid isPermaLink="false">http://spiders.agency/xy-grid/uploads/2018/07/pexels-photo-356378.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -464,7 +464,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/xy-grid/app/uploads/2018/07/pexels-photo-356378.jpeg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://spiders.agency/xy-grid/uploads/2018/07/pexels-photo-356378.jpeg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/07/pexels-photo-356378.jpeg]]></wp:meta_value>
@@ -479,7 +479,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<link>http://localhost/xy-grid/2018/07/04/ul-and-ol-post/snapwire/</link>
 		<pubDate>Wed, 04 Jul 2018 16:52:03 +0000</pubDate>
 		<dc:creator><![CDATA[palmiak]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/xy-grid/app/uploads/2018/07/pexels-photo-730896.jpeg</guid>
+		<guid isPermaLink="false">http://spiders.agency/xy-grid/uploads/2018/07/pexels-photo-730896.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -495,7 +495,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/xy-grid/app/uploads/2018/07/pexels-photo-730896.jpeg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://spiders.agency/xy-grid/uploads/2018/07/pexels-photo-730896.jpeg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/07/pexels-photo-730896.jpeg]]></wp:meta_value>
@@ -510,7 +510,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<link>http://localhost/xy-grid/2018/07/04/blockquote-post/burst/</link>
 		<pubDate>Wed, 04 Jul 2018 16:52:29 +0000</pubDate>
 		<dc:creator><![CDATA[palmiak]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/xy-grid/app/uploads/2018/07/pexels-photo-373912.jpeg</guid>
+		<guid isPermaLink="false">http://spiders.agency/xy-grid/uploads/2018/07/pexels-photo-373912.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -526,7 +526,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/xy-grid/app/uploads/2018/07/pexels-photo-373912.jpeg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://spiders.agency/xy-grid/uploads/2018/07/pexels-photo-373912.jpeg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/07/pexels-photo-373912.jpeg]]></wp:meta_value>
@@ -541,7 +541,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<link>http://localhost/xy-grid/2018/07/04/links-post/skitterphoto/</link>
 		<pubDate>Wed, 04 Jul 2018 16:52:55 +0000</pubDate>
 		<dc:creator><![CDATA[palmiak]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/xy-grid/app/uploads/2018/07/pexels-photo-240040.jpeg</guid>
+		<guid isPermaLink="false">http://spiders.agency/xy-grid/uploads/2018/07/pexels-photo-240040.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -557,7 +557,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/xy-grid/app/uploads/2018/07/pexels-photo-240040.jpeg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://spiders.agency/xy-grid/uploads/2018/07/pexels-photo-240040.jpeg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/07/pexels-photo-240040.jpeg]]></wp:meta_value>
@@ -572,7 +572,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<link>http://localhost/xy-grid/2018/07/04/headers-post/tookapic/</link>
 		<pubDate>Wed, 04 Jul 2018 16:52:56 +0000</pubDate>
 		<dc:creator><![CDATA[palmiak]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/xy-grid/app/uploads/2018/07/computer-motherboard-pc-wires.jpg</guid>
+		<guid isPermaLink="false">http://spiders.agency/xy-grid/uploads/2018/07/computer-motherboard-pc-wires.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -588,7 +588,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/xy-grid/app/uploads/2018/07/computer-motherboard-pc-wires.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://spiders.agency/xy-grid/uploads/2018/07/computer-motherboard-pc-wires.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/07/computer-motherboard-pc-wires.jpg]]></wp:meta_value>
@@ -603,7 +603,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<link>http://localhost/xy-grid/2018/07/04/multiple-paragraph-post/philipp-m/</link>
 		<pubDate>Wed, 04 Jul 2018 16:53:45 +0000</pubDate>
 		<dc:creator><![CDATA[palmiak]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/xy-grid/app/uploads/2018/07/pexels-photo-100582.jpeg</guid>
+		<guid isPermaLink="false">http://spiders.agency/xy-grid/uploads/2018/07/pexels-photo-100582.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -619,7 +619,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost/xy-grid/app/uploads/2018/07/pexels-photo-100582.jpeg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[http://spiders.agency/xy-grid/uploads/2018/07/pexels-photo-100582.jpeg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/07/pexels-photo-100582.jpeg]]></wp:meta_value>
