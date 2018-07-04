@@ -1,0 +1,36 @@
+{% extends "/layouts/base.twig" %}
+{% block content %}
+
+<div class="grid-container">
+  <div class="grid-x grid-padding-x">
+    {% for post in posts | slice(0, 2) %}
+    <div class="cell medium-6 small-12">
+      {% include 'views/parts/entry.twig' %}
+    </div>
+    {% endfor %}
+
+    {% for post in posts | slice(2, 6) %}
+    <div class="cell medium-4 small-12">
+      {% include 'views/parts/entry.twig' %}
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+{% if news %}
+<div class="grid-container">
+  <div class="grid-x grid-padding-x">
+    <h2>Aktualności</h2>
+  </div>
+  <div class="grid-x grid-padding-x">
+    {% for post in news %}
+    <div class="cell medium-6 small-12">
+      {% include 'views/parts/entry.twig' %}
+    </div>
+    {% endfor %}
+
+  </div>
+</div>
+{% endif %}
+
+{% endblock %}

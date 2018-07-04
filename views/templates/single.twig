@@ -1,0 +1,59 @@
+{% extends "/layouts/base.twig" %}
+
+{% block content %}
+<article class="article m-b-80">
+
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x">
+      <div class="cell">
+        <div class="article article-meta">
+          <p class="meta m-b-30 middle-size light">
+            {{ breadcrumbs }}
+          </p>
+          <p class="meta m-b-30 middle-size light">
+            Nazwa kategorii<span class="display-inline-block m-r-20 m-l-20">/</span>10.10.2018
+          </p>
+          <h1 class="font-55 m-b-80">Tytuł wpisu</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid-container collapse half-fluid m-b-80">
+    <div class="grid-x grid-padding-x">
+      <div class="cell">
+        <img src="http://via.placeholder.com/1450x600" alt="" />
+      </div>
+    </div>
+  </div>
+
+  <div class="grid-container m-b-50 text-content">
+    <div class="grid-x grid-padding-x align-center">
+      <div class="cell large-7 medium-10 small-11">
+      <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla leo erat, pellentesque non augue ut, viverra varius ex. Proin gravida porttitor leo ac tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dignissim enim elit, vel posuere nunc sollicitudin sit amet. Nulla velit nisi, laoreet id erat sed, malesuada rhoncus dui. Maecenas eu volutpat ligula, in pellentesque est. Vivamus fermentum tellus vel ligula tincidunt, id tempor ipsum eleifend. Pellentesque luctus diam ac tincidunt posuere.
+
+      Duis non purus vitae odio vulputate vehicula sit amet quis magna. Ut efficitur fringilla rhoncus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ac dignissim ante. Vestibulum efficitur efficitur fringilla. Proin ac purus nunc. Vivamus in vulputate ipsum. Sed maximus a dolor vitae semper. </p>
+      </div>
+    </div>
+  </div>
+
+  {# pod postem #}
+  <div class="grid-container m-b-80 after-post">
+    <div class="grid-x grid-padding-x align-center">
+      <div class="cell large-7 medium-10 small-12">
+        <div class="tags light middle-size m-b-40">
+          Tagi:
+          <a href="" class="light">tag 1</a>,
+          <a href="" class="light">tag 2</a>,
+          <a href="" class="light">tag 3</a>
+        </div>
+
+        <a href="" class="share-post"><i class="fab fa-facebook-f"></i></a>
+        <a href="" class="share-post"><i class="fab fa-twitter"></i></a>
+
+      </div>
+    </div>
+  </div>
+
+</article>
+{% endblock %}

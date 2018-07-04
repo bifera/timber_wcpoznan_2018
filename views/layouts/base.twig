@@ -1,0 +1,33 @@
+{% block head %}
+<!doctype html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html {{ function( 'language_attributes' ) }}>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ wp_title }}</title>
+  <link rel="stylesheet" href="https://use.typekit.net/oql4jmy.css">
+  {{ function( 'wp_head' ) }}
+</head>
+<body {{ function( 'body_class' ) }}>
+{% endblock %}
+
+{% block header %}
+  {% include "parts/header.twig" %}
+{% endblock %}
+
+{% block content %}
+
+{% endblock %}
+
+{% block footer %}
+  {% include "parts/footer.twig" %}
+  <script>
+    var site_url = '{{ site.url }}';
+    var template_url = '{{ theme.link }}';
+  </script>
+  {{ function( 'wp_footer' ) }}
+  </body>
+</html>
+{% endblock %}

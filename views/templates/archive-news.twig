@@ -1,0 +1,17 @@
+{% extends "/layouts/base.twig" %}
+
+{% block content %}
+    {% block main_content %}
+    <div class="grid-container">
+        <div class="grid-x grid-padding-x">
+        {% for post in posts %}
+        <div class="cell medium-4 small-12">
+            {% include 'views/parts/entry.twig' %}
+        </div>
+        {% endfor %}
+        </div>
+    </div>
+    {% endblock %}
+
+    {% include 'views/parts/pagination.twig' %}
+{% endblock %}

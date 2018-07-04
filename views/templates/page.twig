@@ -1,0 +1,27 @@
+{% extends "/layouts/base.twig" %}
+
+{% block content %}
+<article class="article m-b-80">
+
+  <div class="grid-container">
+    <div class="grid-x grid-padding-x">
+      <div class="cell">
+        <div class="article article-meta">
+          <h1 class="font-55 m-b-80">{{ post.title }}</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid-container m-b-50 text-content">
+    <div class="grid-x grid-padding-x align-center">
+      <div class="cell large-7 medium-10 small-11">
+        {{ post.content }}
+      </div>
+    </div>
+  </div>
+
+</article>
+
+
+{% endblock %}
